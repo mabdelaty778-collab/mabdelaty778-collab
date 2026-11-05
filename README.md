@@ -6,6 +6,12 @@ I build conversational AI systems and the software around them: APIs, data integ
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelaty22/) · [Watch my voice AI demo](https://www.linkedin.com/feed/update/urn:li:activity:7523886174831034368/) · [Explore the code](https://github.com/mabdelaty778-collab/voice-ai-lab)
 
+## Production case study: academy voice AI
+
+I document the academy application's architecture, speech-provider tradeoffs, and the Arabic audio-framing failure addressed by its custom WebSocket adapter. The case study links to a fixed source snapshot and separates implemented behavior from measured results and remaining reliability work.
+
+**[Read the production case study](https://github.com/mabdelaty778-collab/voice-ai-lab/blob/main/docs/production-case-study.md)**
+
 ## Featured work: Voice AI Lab
 
 [![CI](https://github.com/mabdelaty778-collab/voice-ai-lab/actions/workflows/test.yml/badge.svg)](https://github.com/mabdelaty778-collab/voice-ai-lab/actions)
