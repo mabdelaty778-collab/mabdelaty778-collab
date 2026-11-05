@@ -1,10 +1,25 @@
 # Mohamed Abdelaty
 
-**AI & Software Engineer · Voice AI · Applied LLM Systems**
+**AI & Software Engineer · AI SaaS · Voice AI · Applied LLM Systems**
 
-I build conversational AI systems and the software around them: APIs, data integrations, dashboards, and automation. My work connects voice and language models to business workflows, with a focus on reliable tool execution, clear failure handling, and maintainable services.
+I build AI products and the software around them: SaaS platforms, voice agents, APIs, data integrations, dashboards, and automation. My work connects language models to business workflows, with a focus on clear integration boundaries, reliable tool execution, and maintainable services.
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelaty22/) · [Watch my voice AI demo](https://www.linkedin.com/feed/update/urn:li:activity:7523886174831034368/) · [Explore the code](https://github.com/mabdelaty778-collab/voice-ai-lab)
+
+## Flagship engineering work
+
+| Project | Engineering scope | Review |
+|---|---|---|
+| **Elite Créatif AI SaaS** | Business discovery, AI personalization, tenant-aware campaign APIs, sending workflows, and dashboards | [Case study & architecture](https://github.com/mabdelaty778-collab/elite-creatif-ai-saas) · [Product walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7412500377901719552/) |
+| **Academy & clinic Voice AI** | Conversational agents, knowledge tools, database/CRM workflows, and GSM/SIP integration | [Academy case study](https://github.com/mabdelaty778-collab/voice-ai-lab/blob/main/docs/production-case-study.md) · [Clinic demo](https://github.com/mabdelaty778-collab/voice-ai-lab/blob/main/docs/clinic-voice-demo-redacted.mp4) |
+
+## Elite Créatif: AI lead-generation and outreach SaaS
+
+I built AI and backend workflows connecting business discovery, company enrichment, personalized email/WhatsApp content, and campaign operations. The implementation includes Python/FastAPI tenant and campaign workflows, Qwen-based generation, batch imports/exports, and application reporting.
+
+**[Explore the engineering showcase](https://github.com/mabdelaty778-collab/elite-creatif-ai-saas)** · **[Implementation decisions](https://github.com/mabdelaty778-collab/elite-creatif-ai-saas/blob/main/docs/engineering-case-study.md)** · **[Source evidence](https://github.com/mabdelaty778-collab/elite-creatif-ai-saas/blob/main/docs/architecture.md)**
+
+The showcase connects the original product gallery to a fixed public source snapshot and distinguishes demonstrated implementation from production metrics that still need operational evidence.
 
 ## Production case study: academy voice AI
 
